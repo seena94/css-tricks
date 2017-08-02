@@ -4,12 +4,12 @@
   flex-wrap: nowrap;
   justify-content: center;
   width: 100%;
-  margin: 60px auto;
+  margin: 0 auto;
 }
 
 .inner-wrapper {
-	flex: 1 1 100px;
-	background: red;
-	height: 200px;
-	color: white;
+	flex: 1 0 auto;
+	 background: red;
+	 height: 200px;
+	 color: white;
 }
